@@ -2,8 +2,11 @@
 Detection of salient parts of an image using deep CNN models : local and global.
 
 runme.py is for local model creation.
+
 runme2.py is for global model creation.
+
 extract_patches_global.m is for creating trainingdata for global model.
+
 extract_patches_local.m is for creating training data for local model.
 generate.m is for creating the saliency map.
 final_image.m is for post_processing the saliency map.
