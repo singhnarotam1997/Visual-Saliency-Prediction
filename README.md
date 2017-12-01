@@ -21,3 +21,5 @@ Model1 and model2 can be found on google drive link : https://goo.gl/yuC4Xp by t
 “salient_train.mat”, “salient_val.mat” files and “salient_val”, “salient_train” folders required by runme2.py are also available on the same link as given above. salient_val and salient_train are given as compressed files.
 
 “train.hdf5” and “val_set.h5” files required by the file runme.py can also be found on the above link.
+
+report.pdf describes the method applied along with the pipeline and results obtained.
